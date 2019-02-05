@@ -9,14 +9,14 @@ Origin of the script is the following article: https://kaimi.io/2013/11/yandex-m
 ```bat
 chmod +x ya.pl
 
-Mozilla::CA
+# Mozilla::CA
 sudo apt-get install perl-modules
 sudo cpan -i Mozilla::CA
 
-MP3::Tag
+# MP3::Tag
 sudo apt-get install libmp3-tag-perl
 
-Getopt::Long::Descriptive
+# Getopt::Long::Descriptive
 sudo apt-get install libgetopt-long-descriptive-perl
 ```
 # Usage
